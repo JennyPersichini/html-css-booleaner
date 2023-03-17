@@ -1,3 +1,35 @@
 .bg-blue {
     background-color: rgb(134, 189, 209);
 }
+
+.subtitle { 
+    line-height: 80%;
+}
+
+.editor-gray {
+    color: gray;
+}
+
+.blue {
+    color: blue;
+}
+
+.photo {
+    font-size: small;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+th {
+    background-color: rgba(82, 197, 236, 0.829);
+}
+
+.dispari {
+    background-color: rgba(179, 227, 243, 0.9);
+}
+
+.pari {
+    background-color: rgba(179, 227, 243, 0.5);
+}
