@@ -24,6 +24,8 @@
 
 th {
     background-color: rgba(82, 197, 236, 0.829);
+    text-align: left;
+    color: white;
 }
 
 .dispari {
@@ -32,4 +34,11 @@ th {
 
 .pari {
     background-color: rgba(179, 227, 243, 0.5);
+}
+
+.copyright {
+    color: white;
+    background-color: rgb(12, 10, 27);
+    text-align: center;
+    font-size: small;
 }
