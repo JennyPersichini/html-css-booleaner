@@ -51,6 +51,14 @@ th {
     color: white;
 }
 
+.column {
+    width: 25%;
+}
+
+.column3 {
+    width: 50%;
+}
+
 .dispari {
     background-color: rgba(179, 227, 243, 0.9);
 }
