@@ -1,9 +1,28 @@
-.bg-blue {
-    background-color: rgb(134, 189, 209);
+.testata {
+    background-color: rgba(174, 233, 255, 0.926);
+    height: 150px;
+    width: 100%;
+    background-image: url("../img/pattern.png");
+}
+
+#logo {
+    width: 12%;
+    margin-top: 45px;
+    margin-left: 130px;
+}
+
+main {
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+h1 {
+    margin-bottom: 0;
 }
 
 .subtitle { 
     line-height: 80%;
+    margin-top: 0;
 }
 
 .editor-gray {
@@ -12,6 +31,10 @@
 
 .blue {
     color: blue;
+}
+
+.tim {
+    height: 350px;
 }
 
 .photo {
@@ -36,9 +59,15 @@ th {
     background-color: rgba(179, 227, 243, 0.5);
 }
 
+.bg-dark {
+    background-color: rgb(12, 10, 27);
+    height: 40px;
+}
+
 .copyright {
     color: white;
-    background-color: rgb(12, 10, 27);
     text-align: center;
     font-size: small;
+    margin-top: 10px;
+    padding: 10px;
 }
